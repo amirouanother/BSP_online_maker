@@ -24,3 +24,21 @@ Design maps visually with drag-and-drop entities, configure game modes (CTF, KOT
    ```bash
    git clone [https://github.com/YourUsername/tf2-map-forge.git](https://github.com/amirouanother/BSP_online_maker/)
    cd BSP_online_maker
+   Install dependencies
+
+
+# Backend
+cd backend && npm install
+# Frontend
+cd ../frontend && npm install
+Run editor
+
+bash
+Copy
+Edit
+npm run start
+Frontend: http://localhost:8080
+
+Backend API: http://localhost:3000
+
+Project Structure

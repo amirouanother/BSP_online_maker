@@ -1,4 +1,4 @@
-# TF2 Map Forge
+# TF2 Map BSP online
 
 A user-friendly, browser-based map editor for Team Fortress 2.  
 Design maps visually with drag-and-drop entities, configure game modes (CTF, KOTH, CP), choose skyboxes without void errors, and import/export in VMF, BSP, or a custom WBSP format for easy sharing and collaboration.

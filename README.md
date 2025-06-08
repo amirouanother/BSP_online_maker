@@ -22,5 +22,5 @@ Design maps visually with drag-and-drop entities, configure game modes (CTF, KOT
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YourUsername/tf2-map-forge.git
-   cd tf2-map-forge
+   git clone [https://github.com/YourUsername/tf2-map-forge.git](https://github.com/amirouanother/BSP_online_maker/)
+   cd BSP_online_maker
